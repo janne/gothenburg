@@ -6,6 +6,7 @@ $(function() {
     } else {
       $('form').hide();
       $('#answer').show();
+      $('#social').show();
       document.getElementById('sound').play();
     }
     return false;

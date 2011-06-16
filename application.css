@@ -16,6 +16,13 @@ div#answer {
   text-align: center;
 }
 
+div#social {
+  padding: 20px;
+  width: 600px;
+  text-align: center;
+  margin: 20px auto;
+}
+
 input[type=submit] {
   font: bold 84% 'trebuchet ms',helvetica,sans-serif; 
   background-color: #fed; 
